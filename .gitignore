@@ -224,3 +224,10 @@ __marimo__/
 !/data/.gitkeep
 /outputs/*
 !/outputs/.gitkeep
+
+# Local datasets and experimental outputs
+/data/
+/outputs/
+
+# Local environment
+.env
